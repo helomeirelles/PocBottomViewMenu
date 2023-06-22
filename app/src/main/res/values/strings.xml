@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PocBottomViewMenu</string>
+    <string name="title_dynamicfeature">feature</string>
+    <string name="title_feature">feature</string>
+</resources>
